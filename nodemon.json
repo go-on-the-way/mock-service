@@ -1,0 +1,14 @@
+{
+    "ignoreRoot": [
+        ".git",
+        "node_modules",
+        "bower_components",
+        ".sass-cache"
+    ],
+    "watch": [
+        "*.*"
+    ],
+    "events": {
+        "start": "cls || clear"
+    }
+}
